@@ -32,7 +32,7 @@ export default function AboutPage() {
         <div className="bg-violet-50 border-l-4 border-violet-600 p-6 my-8">
           <h2 className="text-xl font-semibold text-gray-900 mb-2">Our Unique Approach</h2>
           <p className="text-gray-700">
-            We only charge ongoing fees based on verified value delivered. This means you pay for results, 
+            We only charge ongoing fees based on verified and agreed value delivered. This means you pay for results, 
             not just promises. Our assessments identify opportunities, and we stand behind our recommendations.
           </p>
         </div>

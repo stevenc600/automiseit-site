@@ -87,7 +87,7 @@ export default function Home() {
           <div className="flex flex-col items-center text-center p-6 rounded-lg bg-white shadow-md hover:shadow-xl transition-shadow duration-300">
             <div className="text-4xl mb-4">🎯</div>
             <h3 className="text-xl font-semibold mb-2 text-gray-900">Outcome-Based</h3>
-            <p className="text-gray-600">Pay ongoing fees only based on verified value delivered</p>
+            <p className="text-gray-600">Pay ongoing fees only based on verified and agreed value delivered</p>
           </div>
           <div className="flex flex-col items-center text-center p-6 rounded-lg bg-white shadow-md hover:shadow-xl transition-shadow duration-300">
             <div className="text-4xl mb-4">🇦🇺</div>
