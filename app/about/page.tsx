@@ -37,6 +37,17 @@ export default function AboutPage() {
           </p>
         </div>
 
+        {/* Value Image */}
+        <div className="flex justify-center my-12">
+          <Image
+            src="/Value.webp"
+            alt="Our Value Proposition"
+            width={1536}
+            height={1024}
+            className="w-full max-w-2xl h-auto"
+          />
+        </div>
+
         <h2 className="text-2xl font-semibold text-gray-900 mt-12 mb-4">What We Do</h2>
         
         <div className="grid sm:grid-cols-2 gap-6">
