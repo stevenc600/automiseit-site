@@ -98,6 +98,61 @@ export default function AboutPage() {
           </li>
         </ul>
 
+        <h2 className="text-2xl font-semibold text-gray-900 mt-12 mb-4">Built with Modern Technology</h2>
+        
+        <div className="bg-gradient-to-br from-gray-900 to-gray-800 p-8 rounded-lg text-white">
+          <p className="text-gray-300 mb-6">
+            We believe in transparency. This website is built with the same modern, efficient 
+            technologies we recommend to clients:
+          </p>
+          
+          <div className="grid sm:grid-cols-3 gap-4">
+            <div className="bg-gray-800/50 p-4 rounded-lg border border-gray-700">
+              <div className="text-xl mb-2">⚡</div>
+              <div className="font-semibold mb-1">Next.js 16</div>
+              <div className="text-sm text-gray-400">React Framework</div>
+            </div>
+            
+            <div className="bg-gray-800/50 p-4 rounded-lg border border-gray-700">
+              <div className="text-xl mb-2">📘</div>
+              <div className="font-semibold mb-1">TypeScript</div>
+              <div className="text-sm text-gray-400">Type-safe Development</div>
+            </div>
+            
+            <div className="bg-gray-800/50 p-4 rounded-lg border border-gray-700">
+              <div className="text-xl mb-2">🎨</div>
+              <div className="font-semibold mb-1">Tailwind CSS</div>
+              <div className="text-sm text-gray-400">Modern Styling</div>
+            </div>
+          </div>
+          
+          <p className="text-sm text-gray-400 mt-6">
+            These tools help us deliver fast, reliable, and maintainable solutions—exactly the 
+            approach we take with client projects.
+          </p>
+        </div>
+
+        <div className="bg-blue-50 border-l-4 border-blue-600 p-6 my-8">
+          <h2 className="text-xl font-semibold text-gray-900 mb-2">🚀 Launching in 2026</h2>
+          <p className="text-gray-700 mb-3">
+            We're currently onboarding our first clients as early adopters. This means:
+          </p>
+          <ul className="space-y-2 text-gray-700">
+            <li className="flex items-start">
+              <span className="mr-2">•</span>
+              <span>You get preferential pricing and priority support</span>
+            </li>
+            <li className="flex items-start">
+              <span className="mr-2">•</span>
+              <span>Your feedback shapes how we develop our services</span>
+            </li>
+            <li className="flex items-start">
+              <span className="mr-2">•</span>
+              <span>We're fully committed to delivering value from day one</span>
+            </li>
+          </ul>
+        </div>
+
         <div className="bg-gray-50 p-8 rounded-lg mt-12">
           <h2 className="text-2xl font-semibold text-gray-900 mb-4">Get Started</h2>
           <p className="text-gray-700 mb-6">

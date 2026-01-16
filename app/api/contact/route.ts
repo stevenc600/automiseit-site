@@ -19,7 +19,7 @@ export async function POST(request: Request) {
     // Send email using Resend
     const data = await resend.emails.send({
       from: 'AutomiseIT Contact Form <onboarding@resend.dev>', // Change this after domain verification
-      to: 'steven600@hotmail.com',
+      to: 'stevenc600@hotmail.com',
       replyTo: email,
       subject: `New Contact Form Submission from ${name}`,
       html: `

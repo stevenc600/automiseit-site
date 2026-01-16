@@ -41,8 +41,8 @@ export default function DigitalAssessmentPage() {
         <h2 className="text-2xl font-semibold text-gray-900">Assessment Process</h2>
 
         <div className="space-y-6">
-          <div className="flex gap-4">
-            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg">
+          <div className="flex gap-4 group hover:translate-x-2 transition-transform duration-300">
+            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg shadow-lg group-hover:shadow-xl group-hover:bg-violet-700 transition-all">
               1
             </div>
             <div>
@@ -54,8 +54,8 @@ export default function DigitalAssessmentPage() {
             </div>
           </div>
 
-          <div className="flex gap-4">
-            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg">
+          <div className="flex gap-4 group hover:translate-x-2 transition-transform duration-300">
+            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg shadow-lg group-hover:shadow-xl group-hover:bg-violet-700 transition-all">
               2
             </div>
             <div>
@@ -67,8 +67,8 @@ export default function DigitalAssessmentPage() {
             </div>
           </div>
 
-          <div className="flex gap-4">
-            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg">
+          <div className="flex gap-4 group hover:translate-x-2 transition-transform duration-300">
+            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg shadow-lg group-hover:shadow-xl group-hover:bg-violet-700 transition-all">
               3
             </div>
             <div>
@@ -80,8 +80,8 @@ export default function DigitalAssessmentPage() {
             </div>
           </div>
 
-          <div className="flex gap-4">
-            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg">
+          <div className="flex gap-4 group hover:translate-x-2 transition-transform duration-300">
+            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg shadow-lg group-hover:shadow-xl group-hover:bg-violet-700 transition-all">
               4
             </div>
             <div>
@@ -93,8 +93,8 @@ export default function DigitalAssessmentPage() {
             </div>
           </div>
 
-          <div className="flex gap-4">
-            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg">
+          <div className="flex gap-4 group hover:translate-x-2 transition-transform duration-300">
+            <div className="flex-shrink-0 w-12 h-12 rounded-full bg-violet-600 text-white flex items-center justify-center font-bold text-lg shadow-lg group-hover:shadow-xl group-hover:bg-violet-700 transition-all">
               5
             </div>
             <div>
