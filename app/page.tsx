@@ -62,7 +62,7 @@ export default function Home() {
             {" "}for Australian Organisations
           </h1>
           <p className="text-lg sm:text-xl text-center text-gray-600 max-w-2xl px-4">
-            Expert assessments and ongoing support. <span className="font-semibold text-violet-600">Pay only for verified value delivered.</span>
+            Expert assessments and ongoing support. <span className="font-semibold text-violet-600">Pay only for verified and agreed value delivered.</span>
           </p>
         </div>
 
