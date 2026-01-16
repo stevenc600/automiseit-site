@@ -26,7 +26,9 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 text-xs text-gray-500">
-          © {new Date().getFullYear()} AutomiseIT. All rights reserved.
+          © {new Date().getFullYear()} AutomiseIT Australia. All rights reserved.
+          <span className="mx-2">|</span>
+          <span>ABN: 41 317 109 387</span>
           <span className="mx-2">|</span>
           <a href="/privacy" className="hover:text-violet-600 underline">Privacy Policy</a>
         </div>
